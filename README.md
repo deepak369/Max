@@ -1,2 +1,2 @@
 # Max Verstappen
-Max Verstappen's Formula 1 journey so far
+A simple HTML page displaying the career and achievements of Formula 1 driver Max Verstappen
